@@ -9,4 +9,10 @@ public class Loginap {
 	{
 		System.out.println("Username is");
 	}
+	
+	@Test
+	public void password()
+	{
+		System.out.println("password added in asian branch");
+	}
 }
