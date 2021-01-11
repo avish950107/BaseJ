@@ -15,4 +15,12 @@ public class Loginap {
 	{
 		System.out.println("password added in asian branch");
 	}
+	
+	@Test
+	public void Americanguy()
+	{
+		System.out.println("amrican guy added app code");
+		System.out.println("amrican guy added app code at 01:19 a.m.");
+		
+	}
 }
